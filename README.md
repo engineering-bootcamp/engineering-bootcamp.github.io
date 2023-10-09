@@ -2,7 +2,13 @@
 
 Resources for new engineers or engineers who want to develop their knowledge.
 
-## Background
+## Understanding the Landscape
+
+The annual developer survey:
+
+https://survey.stackoverflow.co/
+
+## Background Education
 
 Learning about unicode:
 
@@ -15,3 +21,4 @@ https://missing.csail.mit.edu/
 How does your computer's time come from?
 
 https://dotat.at/@/2023-05-26-whence-time.html
+
