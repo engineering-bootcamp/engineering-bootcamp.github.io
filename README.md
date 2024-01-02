@@ -22,3 +22,8 @@ How does your computer's time come from?
 
 https://dotat.at/@/2023-05-26-whence-time.html
 
+## AI
+
+Learn about building and tuning Large Language Models.
+
+https://github.com/mlabonne/llm-course
